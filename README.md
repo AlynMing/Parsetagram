@@ -29,5 +29,4 @@ Here's a walkthrough of implemented user stories:
 - Login and having 19 current posts
 <img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
-- Posts and see the 20th post:
-[![Post Parsetagram](https://youtu.be/hXAZpl1Us94)](https://youtu.be/hXAZpl1Us94 "Post Parsetagram")
+- Posts and see the 20th post: please view [!this video](https://youtu.be/hXAZpl1Us94) because I couldn't upload a GIFY longer than 15s
