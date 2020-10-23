@@ -22,5 +22,7 @@ The following **bonus** features are implemented:
 ## Video Walkthrough
 
 Here's a walkthrough of implemented user stories:
+Sign up
+<img src='https://media.giphy.com/media/8thrmZQPQo4USs9ELA/giphy.gif' title='Video Walkthrough Sign up' width='' alt='Video Walkthrough' />
 
 <img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
