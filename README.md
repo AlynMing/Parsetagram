@@ -22,7 +22,12 @@ The following **bonus** features are implemented:
 ## Video Walkthrough
 
 Here's a walkthrough of implemented user stories:
-Sign up
+
+- Sign up
 <img src='https://media.giphy.com/media/8thrmZQPQo4USs9ELA/giphy.gif' title='Video Walkthrough Sign up' width='' alt='Video Walkthrough' />
 
+- Login and having 19 current posts
 <img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+
+- Posts and see the 20th post:
+<img src='https://vimeo.com/user119257014/review/471540202/43ff2f7cbf' title='Video Walkthrough' width='' alt='Video Walkthrough' />
