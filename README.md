@@ -27,6 +27,6 @@ Here's a walkthrough of implemented user stories:
 <img src='https://media.giphy.com/media/8thrmZQPQo4USs9ELA/giphy.gif' title='Video Walkthrough Sign up' width='' alt='Video Walkthrough' />
 
 - Login and having 19 current posts
-<img src='hhttps://media.giphy.com/media/lbtQ6ARFUUVmcT45G4/giphy.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='https://media.giphy.com/media/lbtQ6ARFUUVmcT45G4/giphy.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 - Posts and see the 20th post: please view [!this video](https://youtu.be/hXAZpl1Us94) because I couldn't upload a GIFY longer than 15s
