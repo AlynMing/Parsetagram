@@ -8,6 +8,7 @@ target 'Parsetagram' do
   # Pods for YOUR_APP
   pod 'Parse'
   pod 'Alamofire' 
-  pod 'AlamofireImage' 
+  pod 'AlamofireImage'
+  pod 'MessageInputBar' 
 
 end
