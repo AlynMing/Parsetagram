@@ -43,4 +43,4 @@ Here's a walkthrough of implemented user stories:
 - Login and having 19 current posts
 <img src='https://media.giphy.com/media/lbtQ6ARFUUVmcT45G4/giphy.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
-- [Posts and see the 20th post](https://youtu.be/hXAZpl1Us94) 
+- [Posts and see the last 20 posts](https://youtu.be/hXAZpl1Us94) 
